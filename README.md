@@ -1,6 +1,6 @@
 # Gödel’s First Incompleteness Theorem in Kotlin
 
-This project implements a simple logic engine in Kotlin to illustrate Gödel’s First Incompleteness Theorem. It represents first-order Peano Arithmetic (PA), performs Gödel numbering of formulas, and constructs the self-referential Gödel sentence (one that says “I am not provable”).
+This project implements a simple logic engine in Kotlin to illustrate [Gödel’s First Incompleteness Theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems#First_incompleteness_theorem). It represents first-order Peano Arithmetic (PA), performs Gödel numbering of formulas, and constructs the self-referential Gödel sentence (one that says “I am not provable”).
 
 ## Project Structure
 
